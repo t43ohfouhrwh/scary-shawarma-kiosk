@@ -1,1 +1,1 @@
-# scary-shawarma-kiosk
+# Scary Shawarma Kiosk
